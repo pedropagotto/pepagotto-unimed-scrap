@@ -1,2 +1,7 @@
-# pepagotto-unimed-scrap
-unimed scrap data
+
+
+```shell
+uv venv
+uv install
+playwright install
+```
